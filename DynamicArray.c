@@ -165,6 +165,8 @@ void SortArray(dA* DynamicArray){
 
 }
 
+/*
+
 int main()
 {
     dA* dynamicArray = FastInit(sizeof(int));
@@ -180,3 +182,5 @@ int main()
     }
     
 }
+
+*/
